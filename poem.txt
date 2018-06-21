@@ -1,6 +1,6 @@
 Purple
 Pink
-Orange
+Oranges
 Blue
 Red
 yellow
@@ -8,3 +8,4 @@ These are the colors of the rainbow.
 
 new branch
  purple 
+oranges
